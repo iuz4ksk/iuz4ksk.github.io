@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "R-i-STATiscs"
+title                    : "i-STATistics using R"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kyung-Sung Kim, Ph.D"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Kyung-Sung Kim, Ph.D"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am a retired professor with 3 grand children"
+  bio              : "I am a retired professor."
   location         : "Seoul, Korea"
   email            :
   links:
